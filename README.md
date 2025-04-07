@@ -19,12 +19,3 @@
 ![Nest JS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma ORM](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### Top Projects 🚀
-- **[Project 1](#)**: Description of a full-stack application using React and NestJS.
-- **[Project 2](#)**: Description of a responsive website using Tailwind CSS and Next.js.
-- **[Project 3](#)**: Description of a TypeScript project using MobX and Prisma ORM.
-
-### Get In Touch ✉️
-- [LinkedIn](https://www.linkedin.com)
-- [Email me](mailto:your-email@example.com)

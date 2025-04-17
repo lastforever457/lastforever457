@@ -1,6 +1,6 @@
-# Hi there, I'm Hikmatilla! 👋
+# Hikmatilla Xudoyberdiyev! 👋
 
-## Front-End Developer 💻 | AI Enthusiast 🤖
+## Full stack Developer 💻
 
 ### Technologies I Work With:
 
